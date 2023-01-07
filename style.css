@@ -1,0 +1,17 @@
+body{
+    color: #fff;
+    background-image: url(/images/wallpaper.jpg);
+    background-size: cover;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 20px);
+}
+.msg{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
