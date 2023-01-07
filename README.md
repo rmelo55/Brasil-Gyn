@@ -1,3 +1,3 @@
 # Canal Curiosidades Brasil Gyn
 
-## Novidades em breve!
+Novidades em breve!
