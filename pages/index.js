@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Curiosidades Brasil Gyn" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Em breve, novidades do nosso canal.
         </p>
       </main>
 
